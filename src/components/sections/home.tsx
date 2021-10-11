@@ -22,7 +22,7 @@ const Home: React.FC = () => {
             Free and Open Source
           </p>
           <a href="#downloads">
-            <Button>Download</Button>
+            <Button className="hover:scale-105">Download</Button>
           </a>
         </div>
       </div>
