@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@fontsource/spartan": "4.5.0",
-    "@iconify/react": "3.0.1",
+    "@iconify/react": "3.2.2",
     "framer-motion": "4.1.17",
     "jimp": "0.16.1",
     "next": "11.1.2",
